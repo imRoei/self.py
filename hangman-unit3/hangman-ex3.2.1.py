@@ -1,0 +1,1 @@
+print("\"Shuffle, Shuffle, Shuffle\" say it together! Change \ncolors and directions, Dont't back down and stop the \nplayer! \tDo you want to play Taki? \tPress y\\n")
